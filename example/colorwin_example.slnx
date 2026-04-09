@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Win32" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="colorwin_example.vcxproj" Id="7ff36241-250d-4601-bb95-65d10e8103df" />
+</Solution>
